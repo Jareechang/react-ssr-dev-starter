@@ -16,15 +16,18 @@ A client with `create-react-app` and a minimal server ssr starter.
 
 This repo is mainly to create a playground for experimenting with react related things with SSR included.
 
-A lot of existing frameworks have a lot of batteries included and are quite opinionated. They are not limited to:
+A lot of existing frameworks have a lot of batteries included and are quite opinionated.
+
+**They offer the following:**
 
 - State sync between client / server
 - Data fetching / loading
 - Router
 - Builds
 - Templating 
+- and More...
 
-Most of the time, these are built in and typically are quite difficult to swap out or deviate away to the approach offered by the framework.
+Most of the time, these functionalities built-in, and typically are quite difficult to swap out or deviate away from the approach offered by the framework.
 
 So, it forces you to build apps in a certain way. For a good reason, which is optimized for production in a specific case.
 
