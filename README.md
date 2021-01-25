@@ -54,3 +54,4 @@ However, this make it difficult to experiment / try out ideas with different tec
 - webpack
 - react / react-dom 
 - nodemon
+- pug (templating)
